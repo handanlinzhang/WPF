@@ -1,4 +1,4 @@
-WPFControls
+WPF
 ===========
 
-WPF Controls study samples.
+Codes for studying WPF.
